@@ -1,5 +1,5 @@
 {
-  "name": "common-components",
+  "name": "@invx/common-components",
   "version": "1.0.0",
   "description": "INVX Common Components",
   "main": "index.js",
